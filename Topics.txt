@@ -1,0 +1,6 @@
+Flutter Firebase integration
+Authentication
+Firebase Database
+Dp, name, msg, time 
+WhatsApp clone
+(Flutter 2.0)
